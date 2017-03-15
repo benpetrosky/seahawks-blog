@@ -20,6 +20,11 @@ h3 {
   font-style: oblique;
   font-weight: bolder;
 }
-img.displayed {
-  margin-left: auto;
+.seahawks {
+  color: blue;
+}
+
+.opp {
+  text-decoration-line: line-through;
+  color: brown;
 }
